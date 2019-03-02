@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535707292 source:e:\facultate\viata\laborator10\tottext\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
